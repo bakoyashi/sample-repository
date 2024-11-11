@@ -1,0 +1,12 @@
+# Node.jsの場合
+node_modules/
+.env
+.DS_Store
+
+# IDEの設定ファイル
+.idea/
+.vscode/
+
+# ビルド成果物
+dist/
+build/
